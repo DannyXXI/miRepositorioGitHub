@@ -1,0 +1,9 @@
+body{
+    background-color: cyan;
+    font-family: system-ui;
+}
+
+h1{
+    color: red;
+    text-decoration: underline;
+}
